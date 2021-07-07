@@ -1,0 +1,21 @@
+.next {
+  width: 33%;
+  display: inline-block;
+  float: right;
+  text-align: right;
+}
+
+.home {
+  width: 33%;
+  display: inline-block;
+  text-align: center;
+}
+
+.prev {
+  width: 33%;
+  display: inline-block;
+  float: left;
+}
+.logo {
+  float: right;
+}
